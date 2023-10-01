@@ -22,6 +22,7 @@
     "space-infix-ops": "warn",
     "arrow-spacing": ["warn", { "before": true, "after": true }],
     "semi-spacing": ["warn", { "after": true }],
+    "import/no-unresolved": [2, { "caseInsensitive": true }],
     "import/order": [
       "warn",
       {
