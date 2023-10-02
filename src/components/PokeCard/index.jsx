@@ -1,4 +1,4 @@
-import { useMons } from "../hooks/useMons";
+import useMons from "../../hooks/useMons";
 
 const PokeCard = () => {
   const mons = useMons();
